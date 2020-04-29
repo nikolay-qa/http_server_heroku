@@ -12,7 +12,7 @@
 import requests
 import socket
 
-from .bookmarkserver import CheckURI
+from bookmarkserver import CheckURI
 
 
 def test_CheckURI_bad():
