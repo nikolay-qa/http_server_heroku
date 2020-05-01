@@ -1,15 +1,4 @@
-attrs
-certifi
-chardet
-idna
-more-itertools
-packaging
-pkg-resources
-pluggy
-py
-pyparsing
 pytest
 requests
-six
 urllib3
-wcwidth
+
