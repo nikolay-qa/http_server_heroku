@@ -24,7 +24,6 @@ import http.server
 import os
 import requests
 from urllib.parse import unquote, parse_qs
-import threading
 from socketserver import ThreadingMixIn
 
 
